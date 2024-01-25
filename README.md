@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tamim Al Hasan</h1>
-<h3 align="center">working on javascript,React & MERN stack</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhasan06&label=Profile%20views&color=0e75b6&style=flat" alt="talhasan06" /> </p>
 
-- 🌱 I’m currently learning **Javascript,React,Data structure**
-
-- 💬 Ask me about **web development & competitive programing**
-
-- 📫 How to reach me **talhasan6@gmail.com**
+- 📫 How to reach me **tamimalhasan66@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
